@@ -1,4 +1,4 @@
-In this classification problem we create a model with ``custom pipelines`` that predicts the probability of females having diabetes. For this project we had some **Class imbalance** in the data, so we consider **recall score** rather than Accuracy Score.
+In this classification problem we created a model with ``custom pipelines`` that predicts the probability of females having diabetes. For this project we had some **Class imbalance** in the data, so we consider **recall score** rather than Accuracy Score.
 
 ### Steps I performed in this project:
 1) KNN imputer for missing data
